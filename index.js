@@ -1,7 +1,6 @@
 const express = require("express")
 const bodyParser = require("body-parser")
 const library = require("./data.json")
-const { lazyrouter } = require("express/lib/application")
 
 const app = express()
 const port = 3000
