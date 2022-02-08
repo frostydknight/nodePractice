@@ -1,0 +1,20 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostydknight/nodePractice.git"
+  },
+  "author": "Chris Magee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frostydknight/nodePractice/issues"
+  },
+  "homepage": "https://github.com/frostydknight/nodePractice#readme"
+}
