@@ -2,8 +2,11 @@
     "books": [
       {
         "name": "Pillars of the Earth",
-        "author": "Kent Follet",
+        "author": "Ken Follet",
         "description": "building a church",
+        "isbn": "0451207149",
+        "total": "2",
+        "numberIn": "1",
         "genres": [
           "Fiction",
           "Historical Fiction"
@@ -13,6 +16,9 @@
         "name": "Percy Jackson: the Lightning Thief",
         "author": "Rick Riordan",
         "description": "The Lightning Thief is a light-hearted fantasy about a modern 12-year-old boy who learns that his true father is Poseidon, the Greek god of the sea. Percy sets out to become a hero by undertaking a quest across the United States to find the entrance to the Underworld and stop a war between the gods.",
+        "isbn": "0786838655",
+        "total": "2",
+        "numberIn": "2",
         "genres": [
           "Greek Mythology",
           "Adventure Fiction",

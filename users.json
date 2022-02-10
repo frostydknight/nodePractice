@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "John Doe",
+            "age": 18,
+            "address": "123 Normal Way Dr",
+            "address2": "",
+            "address3": "Normal IL",
+            "zipcode": 61761,
+            "libraryNumber": "123456789",
+            "booksOut": [
+                {
+                    "name": "Pillars of the Earth",
+                    "author": "Ken Follet",
+                    "isbn": "0451207149" 
+                }
+            ]
+
+            
+        }
+    ]
+}
