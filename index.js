@@ -84,7 +84,7 @@ app.delete("/books", (req, res) => {
                 res.status(200)
                 res.end()
             } else {
-                let index = library.books.findIndex( book => book.isbn === isbn)[0]
+                let index = library.books.findIndex( book => book.isbn === isbn)
                 library.books.splice(index, 1)[0]
                 res.status(200)
                 res.end()
